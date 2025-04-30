@@ -1,0 +1,11 @@
+LogP helps determine the hydrophilic or lipophilic nature of a compound:
+
+Higher LogP → more soluble in non-polar (organic) solvents.
+
+Lower or negative LogP → more soluble in polar solvents (like water).
+
+For example, CID 702 (Ethanol) has LogP ~ -0.1, meaning it's water-miscible.
+
+CID 2244 (Aspirin) has LogP ~ 1.2, indicating some lipid solubility — useful in oral drug formulations.
+
+Understanding these trends guides pharmaceutical chemists in choosing suitable solvents for drug solubilization and formulation.
